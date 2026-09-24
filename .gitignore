@@ -1,0 +1,7 @@
+# local screenshot scratch
+temporary screenshots/
+
+# macOS
+.DS_Store
+
+node_modules/
