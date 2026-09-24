@@ -5,3 +5,10 @@ temporary screenshots/
 .DS_Store
 
 node_modules/
+
+# local tooling (needs puppeteer from the parent project)
+screenshot.mjs
+shot.mjs
+measure*.mjs
+bbox.mjs
+clip.mjs
